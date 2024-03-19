@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srowlands-0e76a8.svg?style=for-the-badge&color=1DA1F2&logo=linkedin)](https://www.linkedin.com/in/sam-rowlands-95614429/)
 
-[![Twitter](https://img.shields.io/twitter/follow/srowlands.svg?style=for-the-badge&color=1DA1F2&logo=x)](https://twitter.com/samrowlands_dev)
+[![Twitter](https://img.shields.io/twitter/follow/srowlands.svg?style=for-the-badge&color=1DA1F2&logo=x)](https://twitter.com/sna_rowlands)
 
 [![My Amazon Wishlist](https://img.shields.io/badge/Amazon-Wishlist-FF9900.svg?style=for-the-badge&logoColor=white&logo=Amazon)](https://www.amazon.co.uk/hz/wishlist/ls/2KX950XFQJB10?ref_=wl_share)
 
