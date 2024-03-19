@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @sa-srowlands
-
 ## Hello World
 - 👋 Hi, I’m Sam
 - 👀 I’m interested in game development, devops and automation
